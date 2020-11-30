@@ -1,0 +1,3 @@
+com\xadmin\Ldap\springsecurityLdap\controller\ApplicationController.class
+com\xadmin\Ldap\springsecurityLdap\SpringSecurityLdapApplication.class
+com\xadmin\Ldap\springsecurityLdap\config\SecurityConfig.class
